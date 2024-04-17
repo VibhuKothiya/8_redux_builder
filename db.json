@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "c9d3",
+      "name": "Vibhuti",
+      "email": "vibhuti@gmail.com"
+    },
+    {
+      "id": "9c59",
+      "name": "Yashika B",
+      "email": "yashika@gmail.com"
+    },
+    {
+      "id": "e196",
+      "name": "Khyati Soni",
+      "email": "khyati@gmail.com"
+    },
+    {
+      "id": "8aba",
+      "name": "Divyesh",
+      "email": "Divyesh@gmail.com"
+    }
+  ]
+}
